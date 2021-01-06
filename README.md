@@ -2,8 +2,6 @@
 
 Alexander Heyde, David Rohde, Cameron S. McAlpine, Shuang Zhang, Friedrich F. Hoyer, Jeffrey M. Gerold, David Cheek, Yoshiko Iwamoto, Maximilian J. Schloss, Katrien Vandoorne, Oriol Iborra-Egea, Christian Muñoz-Guijosa, Antoni Bayes-Genis, Johannes G. Reiter, Morgan Craig, Filip K. Swirski, Matthias Nahrendorf, Martin A. Nowak, Kamila Naxerova. 
 
-*Cell*, 2021. In press.
-
 
 Contents
 --------------
