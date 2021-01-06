@@ -1,0 +1,4 @@
+numpy
+kingman
+matplotlib
+seaborn
