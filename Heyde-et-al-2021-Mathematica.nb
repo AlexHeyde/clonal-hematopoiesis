@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    300284,       6845]
-NotebookOptionsPosition[    299087,       6818]
-NotebookOutlinePosition[    299429,       6833]
-CellTagsIndexPosition[    299386,       6830]
+NotebookDataLength[    300309,       6846]
+NotebookOptionsPosition[    299112,       6819]
+NotebookOutlinePosition[    299454,       6834]
+CellTagsIndexPosition[    299411,       6831]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -26,6 +26,7 @@ Bayes - Genis, Johannes G. Reiter, Morgan Craig, Filip K. Swirski, Matthias \
 Nahrendorf, Martin A. Nowak, Kamila Naxerova. \n  \n  Increased stem cell \
 proliferation in atherosclerosis accelerates clonal hematopoiesis.\n  ", \
 "Text"]], "Input",
+ PageWidth->WindowWidth,
  CellChangeTimes->{{3.8189240078572097`*^9, 3.8189241160262766`*^9}, {
   3.8189241522317686`*^9, 3.8189242585029964`*^9}, {3.8189243034072447`*^9, 
   3.818924380058028*^9}, {3.818924422142508*^9, 3.818924487007905*^9}, {
@@ -6832,20 +6833,20 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[558, 20, 1077, 15, 142, "Input",ExpressionUUID->"6b105010-5e56-4ec7-a981-2e09be127bfa"],
+Cell[558, 20, 1102, 16, 164, "Input",ExpressionUUID->"6b105010-5e56-4ec7-a981-2e09be127bfa"],
 Cell[CellGroupData[{
-Cell[1660, 39, 5792, 138, 295, "Input",ExpressionUUID->"277ef787-3d43-424d-a183-5f3c7a90c042"],
-Cell[7455, 179, 34422, 679, 223, "Output",ExpressionUUID->"071b38d2-638d-43df-875f-21f27124e888"]
+Cell[1685, 40, 5792, 138, 295, "Input",ExpressionUUID->"277ef787-3d43-424d-a183-5f3c7a90c042"],
+Cell[7480, 180, 34422, 679, 223, "Output",ExpressionUUID->"071b38d2-638d-43df-875f-21f27124e888"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[41914, 863, 14540, 415, 656, "Input",ExpressionUUID->"3a4e12d3-ce78-438a-a586-e467eb206af1"],
-Cell[56457, 1280, 86607, 1913, 325, "Output",ExpressionUUID->"c5a445b8-3c74-4597-9166-d0ed67d933b8"],
-Cell[143067, 3195, 27803, 857, 323, "Output",ExpressionUUID->"815e8d74-7ede-411c-92a9-01ceb74aafe9"],
-Cell[170873, 4054, 81006, 1792, 325, "Output",ExpressionUUID->"ae3eb6b9-96c6-45ac-95b5-80964a0ea20d"]
+Cell[41939, 864, 14540, 415, 656, "Input",ExpressionUUID->"3a4e12d3-ce78-438a-a586-e467eb206af1"],
+Cell[56482, 1281, 86607, 1913, 325, "Output",ExpressionUUID->"c5a445b8-3c74-4597-9166-d0ed67d933b8"],
+Cell[143092, 3196, 27803, 857, 323, "Output",ExpressionUUID->"815e8d74-7ede-411c-92a9-01ceb74aafe9"],
+Cell[170898, 4055, 81006, 1792, 325, "Output",ExpressionUUID->"ae3eb6b9-96c6-45ac-95b5-80964a0ea20d"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[251916, 5851, 7147, 196, 371, "Input",ExpressionUUID->"3aef677d-92e1-4d01-8535-c8af80b0707c"],
-Cell[259066, 6049, 40005, 766, 256, "Output",ExpressionUUID->"4a02e19c-92fd-4ebd-8cf5-aa68d190e283"]
+Cell[251941, 5852, 7147, 196, 371, "Input",ExpressionUUID->"3aef677d-92e1-4d01-8535-c8af80b0707c"],
+Cell[259091, 6050, 40005, 766, 256, "Output",ExpressionUUID->"4a02e19c-92fd-4ebd-8cf5-aa68d190e283"]
 }, Open  ]]
 }
 ]
